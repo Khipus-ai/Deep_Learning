@@ -1,5 +1,5 @@
 ![alt text](image.png)
-# Deep_Learning
+# Deep Learning
 
 Deep Learning is a subdiscipline of Machine Learning that utilizes artificial neural networks to model complex patterns in data. Through multiple layers of processing, these networks can learn hierarchical representations, enabling advanced applications such as image recognition, natural language processing, and autonomous systems. In this module, we will explore the fundamentals of Deep Learning, its relationship with Artificial Intelligence and Machine Learning, as well as key techniques for building and optimizing models.
 
